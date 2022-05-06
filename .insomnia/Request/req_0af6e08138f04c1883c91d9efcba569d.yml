@@ -1,0 +1,29 @@
+_id: req_0af6e08138f04c1883c91d9efcba569d
+type: Request
+parentId: wrk_3d993dd12ab84da8b032a6e5a38ff2b9
+modified: 1651848152150
+created: 1649074760811
+url: https://servicedesk.hospitaldebase.com.br:44310/apirest.php/killSession/
+name: finalizar sessao
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_e466fd85dc8645e2b479e1a165a491e5
+    name: Session-Token
+    value: sgu9s1acer4bugqge2vt9ih013
+    description: ""
+  - id: pair_3b06a8a92319481cb880db9a38ce64c7
+    name: App-Token
+    value: 6SeEv8zUu0adWLaEtyH0VyPdCCBSlP3PTbOUofCl
+    description: ""
+authentication: {}
+metaSortKey: -1649074760811
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

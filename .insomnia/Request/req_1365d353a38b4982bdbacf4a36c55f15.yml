@@ -1,0 +1,29 @@
+_id: req_1365d353a38b4982bdbacf4a36c55f15
+type: Request
+parentId: wrk_3d993dd12ab84da8b032a6e5a38ff2b9
+modified: 1651848135646
+created: 1651847554859
+url: https://servicedesk.hospitaldebase.com.br:44310/apirest.php/search/Ticket?is_deleted=0&itemtype=Ticket&sort=158&order=ASC&start=0&criteria[0][field]=12&criteria[0][searchtype]=equals&criteria[0][value]=1&criteria[0][link]=AND
+name: Listar chamados novos
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_79fa6747c6f2430a8915a5b9957b7cbc
+    name: Session-Token
+    value: sgu9s1acer4bugqge2vt9ih013
+    description: ""
+  - id: pair_c57c513311ee4e0f99828ab3a07020ff
+    name: App-Token
+    value: 6SeEv8zUu0adWLaEtyH0VyPdCCBSlP3PTbOUofCl
+    description: ""
+authentication: {}
+metaSortKey: -1649074760836
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

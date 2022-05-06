@@ -1,0 +1,29 @@
+_id: req_7988aa32200a4a6ea3fdf88cb3d65a11
+type: Request
+parentId: wrk_3d993dd12ab84da8b032a6e5a38ff2b9
+modified: 1651848157301
+created: 1649070555418
+url: https://servicedesk.hospitaldebase.com.br:44310/apirest.php/initSession
+name: Iniciar sessao
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_78663e6bbf954ddcaf888bc8fd1004ec
+    name: Authorization
+    value: Basic amVmZmVyc29uLmZlcnJlaXJhOnNub2l0dWxvcw==
+    description: ""
+  - id: pair_9d47456a63794fc6ac5bed4e3c51fb7c
+    name: App-Token
+    value: 6SeEv8zUu0adWLaEtyH0VyPdCCBSlP3PTbOUofCl
+    description: ""
+authentication: {}
+metaSortKey: -1649074760861
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
